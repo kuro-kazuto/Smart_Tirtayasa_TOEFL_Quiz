@@ -1,0 +1,295 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+    Other Activity
+    -->
+    <string name="app_name">ST TOEFL Quiz</string>
+
+
+    <!--
+    Listening Directions Activity
+    -->
+
+    <string name="rule_listening">
+        in this section of the test, you will have an opportunity to demonstrate your ability to understand conversations and talks in English.
+        There are three parts to this section.
+        Answer all the questions on the basis of what is stated or implied by the speakers you hear.
+        Do not take notes or write in your test book at any time.
+        On this online apps, you only granted choose one answer and cannot be replaced.
+    </string>
+    <string name="ruletimelistening">Time-approximately 35 minutes (including the reading of the directions for each part)</string>
+    <string name="direction_partA">
+        In Part A you will hear short conversations between two people.
+        After each conversation, you will hear a question about the conversation.
+        The conversations and the questions will not be REPEATED!.
+        After you hear the question, read the four possible answers in your test book and choose the best answer.
+        Then, on your answer sheet, find the number of th question and fill in the space that corresponds to the letter of the answer you have chosen.
+        On this online apps, you only granted choose one answer and cannot be replaced.
+    </string>
+    <string name="direction_partB">
+        In Part B of the test, you will hear longer conversations.
+        After each conversation, you will hear several questions.
+        The conversations and the questions will not be REPEATED!.
+        After you hear the question, read the four possible answers in your test book and choose the best answer.
+        Then, on your answer sheet, find the number of th question and fill in the space that corresponds to the letter of the answer you have chosen.
+        Remember, you are NOT allowed to take notes or write in your test book. On this online apps, you only granted choose one answer and cannot be replaced.
+
+    </string>
+
+    <string name="direction_partC">
+        In Part C, you will hear several talks. After each talk, you will hear some questions.
+        The talks and the questions will not be REPEATED!.
+        After you hear the question, read the four possible answers in your test book and choose the best answer.
+        Then, on your answer sheet, find the number of th question and fill in the space that corresponds to the letter of the answer you have chosen.
+        Remember, you are NOT allowed to take notes or write in your test book. On this online apps, you only granted choose one answer and cannot be replaced.
+
+    </string>
+
+    <!--
+    Structure Directions Activity
+    -->
+    <string name="rule_structure">
+        in this section of the test, you will have an opportunity to demonstrate your ability to understand structural text in English.
+        There are two parts to this section.
+        Answer all the questions on the basis of what is stated or implied by the text.
+        Do not take notes or write in your test book at any time.
+        Remember, On this online apps, you only granted choose one answer and cannot be replaced.
+    </string>
+    <string name="ruletimestructure">
+        Time-approximately 25 minutes (including the reading of the directions for each part)
+    </string>
+
+    <string name="structure_direction_partA" tools:ignore="TypographyOther">
+        In Part A, he questions 1-15 are incomplete sentences.
+        Beneath each sentence you will see four word or phrases, marked (A),(B),(C), and (D) on your answer choice.
+        Choose one word or pharase that best completes the sentence.
+        Then, on your answer sheet, find the number of the question and choose in the letter of answer you have chosen.
+        Remember, On this online apps, you only granted choose one answer and cannot be replaced.
+    </string>
+
+    <string name="structure_direction_partB" tools:ignore="TypographyOther">
+    In Part B, question 16-40, each sentence has four underlined parts of the sentence are marked (A),(B),(C),(D).
+    Identify the one underlined word or phrase that must be changed in order for the sentence to be correct.
+    Then, on your answer sheet, find the number of the question and choose in the letter of answer you have chosen.
+    Remember, On this online apps, you only granted choose one answer and cannot be replaced.
+    </string>
+
+
+    <!--
+   Reading Directions Activity
+   -->
+    <string name="rule_reading">
+        in this section is designed to measure your ability to read and understand short passages.
+        Answer all the questions on the basis of what is stated or implied by the text.
+        Do not take notes or write in your test book at any time.
+        Remember, On this online apps, you only granted choose one answer and cannot be replaced.
+    </string>
+    <string name="ruletimereading">
+        Time-approximately 55 minutes (including the reading of the directions for each part)
+    </string>
+
+    <string name="reading_direction" tools:ignore="TypographyOther">
+        In this section you will read several passages. Each one is followed by a number of question about it.
+        For questions 1-50, you are to chose one best answer (A),(B),(C), and (D) to each question.
+        Then, on your answer sheet, find the number of the question and fill in the space that corresponds to the letter of the answer you have chosen.
+        Answer all questions about the information in a passage on the basis of what is stated or implied in that passage.
+        Remember, On this online apps, you only granted choose one answer and cannot be replaced.
+    </string>
+
+
+    <!--
+    Help Activity
+    -->
+    <string name="tata_cara_app_1">Jawaban Hanya satu kali klik, kerjakan yang mudah terlebih dahulu dan waspadalah terhadap kejadian salah klik.</string>
+
+
+    <!--
+    About Activity
+    -->
+    <string name="about">
+        Smart Tirtayasa TOEFL Quiz (ST TOEFL Quiz) adalah aplikasi Kuis TOEFL berbasis android yang dikembangkan oleh dua mahasiswa Angkatan 2018 Jurusan Teknik Elektro FT Untirta bernama Galih Aji Pambudi dan Dimas Emeraldo As-Sidiqy.
+        Aplikasi ini dibuat sebagai hasil dari program Kerja Praktek yang dilakukan pada Lab Research Computer Network and Technology dan Bekerja sama dengan Language Development Center dalam pembuatannya.
+        ST TOEFL Quiz sudah terintegrasi internet dengan memanfaatkan Fitur Firebase Authentification dan Firebase Database sehingga proses perhitungan input nilai sudah otomatis.
+        Aplikasi ini masih merupakan prototype yang mana kekurangannya masihlah banyak, sehingga harapannya project ini dapat dikembangkan ke tahap yang lebih tinggi dengan anggota tim yang lebih banyak.
+
+
+    </string>
+
+
+    <!--
+    Reading Text Activity
+    -->
+
+    <string name="Blank">
+
+    </string>
+
+    <string name="deskripsi">
+        Robert Moog was an American inventor who developed the Moog Synthesizer. was one of the first synthesizers to gain widespread use as a musical instrument. Moog’s synthesizers were an important pa Line of musical innovation in rock and jazz music in the 1960s and 1970s. Robert Arthur Moog was born in Queens, a borough of New York City 75 years ago. He became fascinated with electronics as a teenager, particularly an early electronic music instrument called the theremin. Moog studied physic and electrical engineering at Queens College and Columbia University, both in New York City and later received a Ph.D. in engineering physic Cornel University in Ithaca, New York. In 1954, while still an undergraduate student, Moog formed his own company to sell theremins and theremin kits.
+    </string>
+
+    ==================================================================================================================================================================================================================================================
+
+    //This is for passgae 1
+    <string name="Passage1">
+        Reading Comprehension Passage 1 for question number 1-10
+    </string>
+
+    <string name="Passage1Text1">
+        The largest of the five Great Lakes of North Amerika is Lake Superior. It is <b><i>situated</i></b> on the northern edge of Wisconsin and stretches between the Upper Penisula og Michigan north to Ontario Canada, and spans west
+        to the eastern edge of Minnesota. The lake stretches appoximately 350 miles from west to east, and 160 miles north to south, with a shoreline almost 2800 miles long. That is the same distance as travling
+        from Duluth Minnesota to Miami Florida.
+    </string>
+
+    <string name="Passage1Text2">
+        Not onle is Lake Superior the largest of the five Great Lakes, itu also has the largest surface area of any freshwater lake in the world. It has a surface area of 31.820 square mile (82.413 squere kilometer) which is approximately
+        the size of South Carolina. The lake contains almost 3.0000 cubic miles of water, an amount that could fill all the other Great Lakes plus three additional Lake Eries. With an avarege depth approaching 500 feet,
+        Lake Superior is also the cooldest and deepest (1.332 feet) of the Great Lakes. It has a maximum length of 350 miles (563 KM) and maximum breadth of 160 miles (257 KM), It averege depth is 482 feet (147 KM) with a maximum depth
+        of 1.332 feet (406 m). The amount of water in Lake Superior can cover the <b><i>entire</i></b> land mass of North and South America with 1 foot (30 cm) of water. It is shoreline stretches 2.726 miles (4.387 KM).
+           </string>
+
+    <string name="Passage1Text3">
+        Based on a study by professors at the University of Mineesota Duluth, Lake Superior may have warmed faster than its surronding climate. The surface temperatures of the lake in the summer appeared to have increased
+        by about 4.5 Fahrenheit (2.5 Celcius) since 1979, compared with an approximately 2.7 Fahrenheit (1.5 Celcius) increaase in the surronding averege air temperature. The increase in the lakes surface temperature may be
+        relation to the decreasing ice cover. Less winter ice cover allows more solar radiation to penetrate the lake and warm the water.
+           </string>
+    <string name="Passage1Text4">
+        The averege surface elevation of Lake Superior is 600 feet (183 m) above sea level. The current water levels, including diversions of water from the Hudson Bay watershed, are governed by the international Lake Superior
+        Board of Control which was estabilished in 1914 by the International Joint Commission. Its water levels temporarily reached <b><i>a new low</i></b> in September 2007, slightly less than previous record low in 1926. However, the water levels
+        returned within a several days.
+           </string>
+    // End of passage 1
+
+    ==================================================================================================================================================================================================================================================
+
+    //This is for passage 2
+    <string name="Passage2">
+        Reading Comprehension Passage 2 for question number 11-20
+            </string>
+
+    <string name="Passage2Text1">
+        Like the Spanish influence on America architecture during the Spanish colonial era, the English influence on America architecture can be clearly seen. The first permanent English speaking settlement in the USA was
+        Jamestown, Virginia, which was founded in 1607. the excavations at this region have unearthed part of the triangular James Fort and numerous artifact from the early 17th century. Virginia\'s colonial capital was nearby
+        Williamsburg, a <b><i>well-preserved</i></b> 18th century town, which now becomes a tourist attraction.
+    </string>
+
+    <string name="Passage2Text2">
+        Ninety percent of the New World population of 200.000 in 16577 drew from England. The English settlers used the same simple construction techniques as those in their respective <b><i>mother</i></b> countries. These settler often
+        came to the New World for economic reasons. It reveals why most early homes reflect the influence of modest village homes and small farms. The appearance of structures was very plain and made with little imported
+        material. Windows, for example, were very small. <b><i>Their</i></b> size did not increased until long after even the British were manufacting glass. This was because the Venetians had not rediscovered the stricly Roman clear glass
+        until the fifteenth century and it did not come to England until another hundred years later. The few windows that did exist on early colonial homes had small panes held together by a lead framework, much like a typical
+        church\'s stained glass window. The glass used was imported from England and was incredibly expensive. In the 18th century, many of these houses were restored and sash windows replaced the Originals. These were invented
+        by Robert Hooke (1635-1703) and were made so that one panel of glass easily slid up, vertically, behind another.
+    </string>
+
+    <string name="Passage2Text3">
+        Many houses were made of wood because timber was readily <b><i>abundant</i></b> for the settlers in America. As for decorative elements, there were very few notable efforts made to show creativity with the early colonial homes,
+        and if an effort was made, it led to a very simple outcome. A subtle element of ornamentation was made on the front door. The owner would take nails, think of an object or pattern to make with them, and nail that decoration
+        onto the door. The ore nails one had, the more extravagant and elaborate the pattern could become.
+    </string>
+
+    <string name="Passage2Text4">
+        The chimney, usually made of brick or stone, was very fashionable especially during 1600 - 1715. Coal was the popular material for heating the home during the Tudor period in England, which lasted up until around
+        1603. Before that, a wood fire was burned on the floor in the center of the house, with the smoke escaping only through windows and vents.
+    </string>
+    //End of passage 2
+
+    ==================================================================================================================================================================================================================================================
+
+    //This is for passage 3
+    <string name="Passage3">
+        Reading Comprehension Passage 3 for question number 21-30
+            </string>
+
+    <string name="Passage3Text1">
+        Barter is a system of exchange by which goods or services without using money. The barter system dates back many countries. In most countries or regions the barter system was used before money was created. People
+        having specific goods or services to sell would exchange them with others for the things <b><i>they</i></b> needed. Barter also replaces money as the system of exchange in times of monetery crisis, such as when currency may be either
+        <b><i>unstable</i></b> or simply unavailable for conduction commerce. Since money value in value from country to country, bartering is easy to do anywhere in the world. Explorers and pilgrims used the barter system to get the things
+        they needed for their journeys. For instance, explorers exchanged their good for spices that were not available where they came from.
+    </string>
+
+    <string name="Passage3Text2">
+        In today\'s economy it is sometimes easier to exchange goods or services for other goods or services. What makes the barter system even better today than even before is that it can now be done globally. In the Past
+        bartering was simply done with those that were located nearby. If the family raised chickens, they traded chickens or eggs from items they needed such as cloth with which to make clothing.
+    </string>
+
+    <string name="Passage3Text3">
+        Nowaday the barter system can be used in a much more <b><i>sophisticated</i></b> way than ever before. However, it carries with it the same basic purpose - exchange of goods or services for other goods or services. the barter system
+        allows someone to negotiate the wroth of his or her goods or services in connection with the goods or services that other people want. Bartering allows people to get the things they needed without having expend additional money.
+        Instead thay can use the goods they no longer need or want to get the things they do need. There are swap markets and online auctions that allow them to sell or trade their goods or to <b><i>purchase</i></b> goods that they need or want.
+        Negotiation is done just like it was hundreds of year before.
+    </string>
+
+    //End of passage 3
+
+    ==================================================================================================================================================================================================================================================
+
+    //This for passage 4
+    <string name="Passage4">
+        Reading Comprehension Passage 4 for question number 31-40
+            </string>
+
+    <string name="Passage4Text1">
+        The human brain is divided in half, a right and left hemisphere. The right hemisphere <b><i>deal with</i></b> visual activities and plays a role in putting things together. For example, it takes visual information, puts it together,
+        and says \'I recognize that - that is a car\', or \'That is a book\', or \'That is a bus\'. It recognize or groups information together. The left hemisphere tends to be the more analytical part; it analyze information
+        collected by the right hemisphere. it takes information from the right hemisphere \'sees\' a car, but the leeft hemisphere says, \'Oh yeah, I know whose car that is - it is John\' car\'.
+    </string>
+
+    <string name="Passage4Text2">
+        The right hemisphere determines the emotional centent of speech. It usually communicates by using <b><i>images</i></b> , has highly developed spatial abilities, is intuitive and imaginative, cencerned with emotions and feelings.
+        A person with an injury to right side of the brain \'does not put thing together\' and fails to process important information. As a result, he or she often develops a \'denial syndrom\' and says \'there is nothing
+        wrong with me.\' Because the right side of the brain is injured, it fails to \'collect\' information, so the brain does not realize that something is missing.
+    </string>
+
+    <string name="Passage4Text3">
+        The left side of the brain or the left hemisphere deal with word choice, rules of grammar, and the meaning of words and the helps to analyze information given to has highly developed verbal abilities, is logical and
+        systematic, concerned with matters as <b><i>they</i></b> are. If someone has an injury to his or her left side of the brain, he or she aware that things are not working (the right hemisphere is doing its job) but is unable to solve
+        complex problems or do a complex activity. A person with left hemisphere injuries tends to be ore depressed, has more organizational problems, and has probllem using language.
+    </string>
+//End of passage 4
+
+    ==================================================================================================================================================================================================================================================
+
+    //This for passage 5
+    <string name="Passage5">
+        Reading Comprehension Passage 5 for question number 41-50
+            </string>
+
+    <string name="Passage5Text1">
+        One of the notable author American Literature is Ernest Miller Hemingway. He was born on July 21, 1899, in Oak Park, Illinois, a suburb of Chicago. His father Clarence Edmonds Hemingway was a physician,
+        and his mother, Grace Hall-Hemingway, was a musician. Both were well-educated and well-respected in the conservative community of Oak Park. His parents, Clarence and Grace Hemingway, married in 1896.
+        Hemingway claimed to dislike his name, which he "associated with the naive, even foolish hero of Oscar Wilde\'s play The Importance of Being Earnest".
+    </string>
+
+    <string name="Passage5Text2">
+        Hemingway <b><i>attended</i></b> Oak Park and River Forest High School from 1913 until 1917. He took part in a number of sports-boxing, track and field, water polo, and football and had good grades in English classes.
+        Hemingway wrote for and edited the Trapeze and Tabula (the school\'s newspaper and yearbook), for which he imitated the language of sportswriters, and used the pen name Ring Larder, Jr.
+            </string>
+
+    <string name="Passage5Text3">
+        On graduation from high school in 1917, Hemingway became a reporter for the Kansas City Star. Soon after that, he became a novelist.
+        It was the Sar\'s style guide that became the foundation of his writing: "Use short sentences. Use short first paragraphs. Use vigorous English. Be positive, not negative.\" During World War I, Hemingway served as an ambulance driver for the American Red Cross.\"
+    </string>
+
+    <string name="Passage5Text4">
+        He wrote most of his work between the mid-1920s and the mid-1950s. He won the Pulitzer Prize for his short novel The Old Man And The Sea in 1952.
+        Hemingway was awarded the Nobel Prize for Literature in 1954. Hemingway\'s fiction was successful because the characters in his works exhibited authenticity that resonated with his audience.
+        Many of his works are classics of American literature. He published seven novels, six short story collections, and two non-fiction works during his lifetime; a further three novels, four collections of
+        short stories, and three non-fiction works published <b><i>posthumously</i></b>.
+    </string>
+
+    <string name="Passage5Text5">
+        He divorced Hadley Richardson in 1927, and then married Pauline Pfeiffer. They divorced following Hemingway\'s return from covering the Spanish Civil War, after which he wrote For Whom the Bell Tolls.
+        Hemingway married his third wife Martha Gellhorn in 1940, but he left her for Mary Welsh Hemingway after World War II
+    </string>
+
+    <string name="Passage5Text6">
+        Shortly after the publication of The Old Man and the Sea in 1952 Hemingway went on safari to Africa, where he was almost killed in a plane crash that left him in pain or ill-health for much of the rest of his life.
+        Hemingway lived permanently in Key West, Florida, and Cuba during the 1930s and 1940s, but in 1959 he moved from Cuba to Ketchum, Idaho, where he committed suicide in the summer of 1961.
+         </string>
+    //End of passage 5
+
+    <string name="coba">
+        <b>Hello</b> <u>Another</u> <i>World</i>
+    </string>
+
+</resources>

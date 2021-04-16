@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    BANK SOAL UNTUK LISTENING SECTION
+    -->
+
+    <!-- ============== Number 1 ================== -->
+    <!--QUESTION--> <string name="LQuestion1">(1)</string>
+    <!--OPTION A--> <string name="LA1">A. He\'ll correct the exams this afternoon</string>
+    <!--OPTION B--> <string name="LB1">B. The exam will be at noon</string>
+    <!--OPTION C--> <string name="LC1">C. he will collect the exams at 12.00</string>
+    <!--OPTION D--> <string name="LD1">D. The tests will be graded by noon</string>
+    <!--ANSWER  --> <string name="LAns1">D. The tests will be graded by noon</string>
+
+    <!-- ============== Number 2 ================== -->
+    <!--QUESTION--> <string name="LQuestion2">(2)</string>
+    <!--OPTION A--> <string name="LA2">A. Martha applied for a visa last month</string>
+    <!--OPTION B--> <string name="LB2">B. Martha\'s visa will last for only a month</string>
+    <!--OPTION C--> <string name="LC2">C. Martha arrived last month without her visa</string>
+    <!--OPTION D--> <string name="LD2">D. One month ago Martha got her visa</string>
+    <!--ANSWER  --> <string name="LAns2">D. One month ago Martha got her visa</string>
+
+    <!-- ============== Number 3 ================== -->
+    <!--QUESTION--> <string name="LQuestion3">(3)</string>
+    <!--OPTION A--> <string name="LA3">A. The professor described what the students should do</string>
+    <!--OPTION B--> <string name="LB3">B. There was a long line to register for the required class</string>
+    <!--OPTION C--> <string name="LC3">C. It is a requirement for each professor to teach at least one course</string>
+    <!--OPTION D--> <string name="LD3">D. The professor required the class to prepare an outline</string>
+    <!--ANSWER  --> <string name="LAns3">A. The professor described what the students should do</string>
+
+    <!-- ============== Number 4 ================== -->
+    <!--QUESTION--> <string name="LQuestion4">(4)</string>
+    <!--OPTION A--> <string name="LA4">A. Chuck had improved</string>
+    <!--OPTION B--> <string name="LB4">B. This visit was better than the last</string>
+    <!--OPTION C--> <string name="LC4">C. Chuck looked at him in the hospital</string>
+    <!--OPTION D--> <string name="LD4">D. Chuck didn\'t seen to be doing very well</string>
+    <!--ANSWER  --> <string name="LAns4">D. Chuck didn\'t seen to be doing very well</string>
+
+    <!-- ============== Number 5 ================== -->
+    <!--QUESTION--> <string name="LQuestion5">(5)</string>
+    <!--OPTION A--> <string name="LA5">A. She thinks the tuition should be raised</string>
+    <!--OPTION B--> <string name="LB5">B. The semester\'s tuition is quite affordable</string>
+    <!--OPTION C--> <string name="LC5">C. She doesn\'t have enough money for her school fees</string>
+    <!--OPTION D--> <string name="LD5">D. She has more tha enough for tuition",</string>
+    <!--ANSWER  --> <string name="LAns5">C. She doesn\'t have enough money for her school fees"</string>
+
+    <!-- ============== Number 6 ================== -->
+    <!--QUESTION--> <string name="LQuestion6">(6)</string>
+    <!--OPTION A--> <string name="LA6">A. He thinks he got a good grade</string>
+    <!--OPTION B--> <string name="LB6">B. The history grades were all C or above</string>
+    <!--OPTION C--> <string name="LC6">C. No one got history grade</string>
+    <!--OPTION D--> <string name="LD6">D. There were no high scores</string>
+    <!--ANSWER  --> <string name="LAns6">D. There were no high scores</string>
+
+    <!-- ============== Number 7 ================== -->
+    <!--QUESTION--> <string name="LQuestion7">(7)</string>
+    <!--OPTION A--> <string name="LA7">A. The parking lots were full before 10:00</string>
+    <!--OPTION B--> <string name="LB7">B. It was impossible to start class at 10:00</string>
+    <!--OPTION C--> <string name="LC7">C. He parked the car before class at 10:00</string>
+    <!--OPTION D--> <string name="LD7">D. the possibility of find a place to park increased</string>
+    <!--ANSWER  --> <string name="LAns7">A. The parking lots were full before 10:00</string>
+
+    <!-- ============== Number 8 ================== -->
+    <!--QUESTION--> <string name="LQuestion8">(8)</string>
+    <!--OPTION A--> <string name="LA8">A. She\'s found a new ring</string>
+    <!--OPTION B--> <string name="LB8">B. She needs to help him find something</string>
+    <!--OPTION C--> <string name="LC8">C. She\'s shopping for a carpet</string>
+    <!--OPTION D--> <string name="LD8">D. She\'s thankful she has a rag</string>
+    <!--ANSWER  --> <string name="LAns8">C. She\'s shopping for a carpet</string>
+
+    <!-- ============== Number 9 ================== -->
+    <!--QUESTION--> <string name="LQuestion9">(9)</string>
+    <!--OPTION A--> <string name="LA9">A. In a department store</string>
+    <!--OPTION B--> <string name="LB9">B. In a bank</string>
+    <!--OPTION C--> <string name="LC9">C. In an accounting firm</string>
+    <!--OPTION D--> <string name="LD9">D. In a checkout line</string>
+    <!--ANSWER  --> <string name="LAns9">B. In a bank</string>
+
+    <!-- ============== Number 10 ================== -->
+    <!--QUESTION--> <string name="LQuestion10">(10)</string>
+    <!--OPTION A--> <string name="LA10">A. Jane usually visits San Francisco for her vacations</string>
+    <!--OPTION B--> <string name="LB10">B. Jane\'s cousin often visits San Francisco</string>
+    <!--OPTION C--> <string name="LC10">C. Whenever there\'s holiday, Jane\'s cousin goes to San Francisco</string>
+    <!--OPTION D--> <string name="LD10">D. Whenever there\'s holiday. Jane leaves San Francisco</string>
+    <!--ANSWER  --> <string name="LAns10">A. Jane usually visits San Francisco for her vacations</string>
+
+    <!-- ============== Number 11 ================== -->
+    <!--QUESTION--> <string name="LQuestion11">(11)</string>
+    <!--OPTION A--> <string name="LA11">A. He\'d really like to have something to eat</string>
+    <!--OPTION B--> <string name="LB11">B. Because he\'s weak, he can\'t eat</string>
+    <!--OPTION C--> <string name="LC11">C. It\'s been weeks since he\'s had anything to eat</string>
+    <!--OPTION D--> <string name="LD11">D. He hasn\'t felt like eating for weeks</string>
+    <!--ANSWER  --> <string name="LAns11">A. He\'d really like to have something to eat</string>
+
+    <!-- ============== Number 12 ================== -->
+    <!--QUESTION--> <string name="LQuestion12">(12)</string>
+    <!--OPTION A--> <string name="LA12">A. Traffic should not be allowed</string>
+    <!--OPTION B--> <string name="LB12">B. She thinks that the traffic should stay outside</string>
+    <!--OPTION C--> <string name="LC12">C. She agrees that the traffic is noisy</string>
+    <!--OPTION D--> <string name="LD12">D. She,ll stay outside with the man</string>
+    <!--ANSWER  --> <string name="LAns12">C. She agrees that the traffic is noisy</string>
+
+    <!-- ============== Number 13 ================== -->
+    <!--QUESTION--> <string name="LQuestion13">(13)</string>
+    <!--OPTION A--> <string name="LA13">A. The headings for today\'s reading assignment</string>
+    <!--OPTION B--> <string name="LB13">B. The chance to make the headlines</string>
+    <!--OPTION C--> <string name="LC13">C. Her reading ability</string>
+    <!--OPTION D--> <string name="LD13">D. The daily newspaper</string>
+    <!--ANSWER  --> <string name="LAns13">D. The daily newspaper</string>
+
+    <!-- ============== Number 14 ================== -->
+    <!--QUESTION--> <string name="LQuestion14">(14)</string>
+    <!--OPTION A--> <string name="LA14">A. The bus trip is only five minutes long</string>
+    <!--OPTION B--> <string name="LB14">B. The man missed the bus by five minutes</string>
+    <!--OPTION C--> <string name="LC14">C. The man should hurry to catch the bus</string>
+    <!--OPTION D--> <string name="LD14">D. The bus was five minutes late</string>
+    <!--ANSWER  --> <string name="LAns14">C. The man should hurry to catch the bus</string>
+
+    <!-- ============== Number 15 ================== -->
+    <!--QUESTION--> <string name="LQuestion15">(15)</string>
+    <!--OPTION A--> <string name="LA15">A. It\'s not possible to pass the class</string>
+    <!--OPTION B--> <string name="LB15">B. She\'ll definitely fail</string>
+    <!--OPTION C--> <string name="LC15">C. It\'s always possible</string>
+    <!--OPTION D--> <string name="LD15">D. She sholdn\'t say anything about the class</string>
+    <!--ANSWER  --> <string name="LAns15">C. It\'s always possible</string>
+
+    <!-- ============== Number 16 ================== -->
+    <!--QUESTION--> <string name="LQuestion16">(16)</string>
+    <!--OPTION A--> <string name="LA16">A. She gave Tom money to pay the rent</string>
+    <!--OPTION B--> <string name="LB16">B. She was given money for the rent</string>
+    <!--OPTION C--> <string name="LC16">C. Tom borrowed money for the rent</string>
+    <!--OPTION D--> <string name="LD16">D. She had some money to lend</string>
+    <!--ANSWER  --> <string name="LAns16">B. She was given money for the rent</string>
+
+    <!-- ============== Number 17 ================== -->
+    <!--QUESTION--> <string name="LQuestion17">(17)</string>
+    <!--OPTION A--> <string name="LA17">A. The cake is extremely good</string>
+    <!--OPTION B--> <string name="LB17">B. He never tasted the cake</string>
+    <!--OPTION C--> <string name="LC17">C. He wished he hadn\'t tasted the cake</string>
+    <!--OPTION D--> <string name="LD17">D. The cake has never been very good</string>
+    <!--ANSWER  --> <string name="LAns17">A. The cake is extremely good</string>
+
+    <!-- ============== Number 18 ================== -->
+    <!--QUESTION--> <string name="LQuestion18">(18)</string>
+    <!--OPTION A--> <string name="LA18">A. At the corner she ran into another car</string>
+    <!--OPTION B--> <string name="LB18">B. She ran to Carl because she cared</string>
+    <!--OPTION C--> <string name="LC18">C. She unexpectedly met one of her relatives</string>
+    <!--OPTION D--> <string name="LD18">D. Carl was running from place to place</string>
+    <!--ANSWER  --> <string name="LAns18">C. She unexpectedly met one of her relatives</string>
+
+    <!-- ============== Number 19 ================== -->
+    <!--QUESTION--> <string name="LQuestion19">(19)</string>
+    <!--OPTION A--> <string name="LA19">A. She shouldn\'t leave her purse here</string>
+    <!--OPTION B--> <string name="LB19">B. She\'s probably in the apartment</string>
+    <!--OPTION C--> <string name="LC19">C. Her purse must not be in the apartment</string>
+    <!--OPTION D--> <string name="LD19">D. She left without taking her purse</string>
+    <!--ANSWER  --> <string name="LAns19">B. She\'s probably in the apartment</string>
+
+    <!-- ============== Number 20 ================== -->
+    <!--QUESTION--> <string name="LQuestion20">(20)</string>
+    <!--OPTION A--> <string name="LA20">A. The landlord failed to collect rent on the first of last month</string>
+    <!--OPTION B--> <string name="LB20">B. The tenants absolutely must pay rent at the beginning of the month</string>
+    <!--OPTION C--> <string name="LC20">C. The landlord will not fail to collect your rent on the first of next month</string>
+    <!--OPTION D--> <string name="LD20">D. It is important to call the landlord about the rent on the first of the month</string>
+    <!--ANSWER  --> <string name="LAns20">B. The tenants absolutely must pay rent at the beginning of the month</string>
+
+    <!-- ============== Number 21 ================== -->
+    <!--QUESTION--> <string name="LQuestion21">(21)</string>
+    <!--OPTION A--> <string name="LA21">A. Taking the car out for a test drive</string>
+    <!--OPTION B--> <string name="LB21">B. Listening to the noises</string>
+    <!--OPTION C--> <string name="LC21">C. Fixing the car her self</string>
+    <!--OPTION D--> <string name="LD21">D. Getting the car repaired</string>
+    <!--ANSWER  --> <string name="LAns21">D. Getting the car repaired</string>
+
+    <!-- ============== Number 22 ================== -->
+    <!--QUESTION--> <string name="LQuestion22">(22)</string>
+    <!--OPTION A--> <string name="LA22">A. Martha\'s jobs are easy</string>
+    <!--OPTION B--> <string name="LB22">B. It\'s easy to hold two jobs</string>
+    <!--OPTION C--> <string name="LC22">C. It\'s better for Martha to have two jobs</string>
+    <!--OPTION D--> <string name="LD22">D. Martha should slow down</string>
+    <!--ANSWER  --> <string name="LAns22">D. Martha should slow down</string>
+
+    <!-- ============== Number 23 ================== -->
+    <!--QUESTION--> <string name="LQuestion23">(23)</string>
+    <!--OPTION A--> <string name="LA23">A. The plane took off just after he arrived</string>
+    <!--OPTION B--> <string name="LB23">B. He arrived just after the plane took off</string>
+    <!--OPTION C--> <string name="LC23">C. He wasn\'t in time to catch the plane</string>
+    <!--OPTION D--> <string name="LD23">D. He arrived too late to catch the plane</string>
+    <!--ANSWER  --> <string name="LAns23">A. The plane took off just after he arrived</string>
+
+    <!-- ============== Number 24 ================== -->
+    <!--QUESTION--> <string name="LQuestion24">(24)</string>
+    <!--OPTION A--> <string name="LA24">A. He agrees with the woman\'s suggestion</string>
+    <!--OPTION B--> <string name="LB24">B. Parking is not free on the weekend</string>
+    <!--OPTION C--> <string name="LC24">C. It is not necessary for them to park</string>
+    <!--OPTION D--> <string name="LD24">D. He thinks they don\'t have to pay</string>
+    <!--ANSWER  --> <string name="LAns24">D. He thinks they don\'t have to pay</string>
+
+    <!-- ============== Number 25 ================== -->
+    <!--QUESTION--> <string name="LQuestion25">(25)</string>
+    <!--OPTION A--> <string name="LA25">A. He is eager to leave his job</string>
+    <!--OPTION B--> <string name="LB25">B. He is unhappy at the thought of retiring</string>
+    <!--OPTION C--> <string name="LC25">C. He couldn\'t be unhappier about retiring</string>
+    <!--OPTION D--> <string name="LD25">D. He is retiring too soon</string>
+    <!--ANSWER  --> <string name="LAns25">A. He is eager to leave his job</string>
+
+    <!-- ============== Number 26 ================== -->
+    <!--QUESTION--> <string name="LQuestion26">(26)</string>
+    <!--OPTION A--> <string name="LA26">A. He got the car he really wanted</string>
+    <!--OPTION B--> <string name="LB26">B. He didn\'t get a new car</string>
+    <!--OPTION C--> <string name="LC26">C. The car that he got was not his first choice</string>
+    <!--OPTION D--> <string name="LD26">D. He didn\'t really want a new car</string>
+    <!--ANSWER  --> <string name="LAns26">C. The car that he got was not his first choice</string>
+
+    <!-- ============== Number 27 ================== -->
+    <!--QUESTION--> <string name="LQuestion27">(27)</string>
+    <!--OPTION A--> <string name="LA27">A. Mr. Drew Pointedly asked the president about the committee</string>
+    <!--OPTION B--> <string name="LB27">B. The president pointed to Mr. Drew\'s head</string>
+    <!--OPTION C--> <string name="LC27">C. Mr. Drew became head of the new commission</string>
+    <!--OPTION D--> <string name="LD27">D. Mr. Drew was committed to the president\'s appointments</string>
+    <!--ANSWER  --> <string name="LAns27">C. Mr. Drew became head of the new commission</string>
+
+    <!-- ============== Number 28 ================== -->
+    <!--QUESTION--> <string name="LQuestion28">(28)</string>
+    <!--OPTION A--> <string name="LA28">A. She felt inferior</string>
+    <!--OPTION B--> <string name="LB28">B. She wasn\'t furious</string>
+    <!--OPTION C--> <string name="LC28">C. She felt there should have been more fairness</string>
+    <!--OPTION D--> <string name="LD28">D. She was extremely angry</string>
+    <!--ANSWER  --> <string name="LAns28">D. She was extremely angry</string>
+
+    <!-- ============== Number 29 ================== -->
+    <!--QUESTION--> <string name="LQuestion29">(29)</string>
+    <!--OPTION A--> <string name="LA29">A. The man would do the dishes</string>
+    <!--OPTION B--> <string name="LB29">B. The plates did not need to be washed</string>
+    <!--OPTION C--> <string name="LC29">C. The man would not be ready to go</string>
+    <!--OPTION D--> <string name="LD29">D. The dishes would not be done</string>
+    <!--ANSWER  --> <string name="LAns29">D. The dishes would not be done</string>
+
+    <!-- ============== Number 30 ================== -->
+    <!--QUESTION--> <string name="LQuestion30">(30)</string>
+    <!--OPTION A--> <string name="LA30">A. He knew that grapes were cheaper than cherries</string>
+    <!--OPTION B--> <string name="LB30">B. He didn\'t know that grapes were cheaper than cherries</string>
+    <!--OPTION C--> <string name="LC30">C. He bought grapes because they were cheaper than cherries</string>
+    <!--OPTION D--> <string name="LD30">D. He didn\'t buy either grapes or cherries because of the price</string>
+    <!--ANSWER  --> <string name="LAns30">B. He didn\'t know that grapes were cheaper than cherries</string>
+
+    <!-- ============== Number 31 ================== -->
+    <!--QUESTION--> <string name="LQuestion31">(31)</string>
+    <!--OPTION A--> <string name="LA31">A. Attend a football game alone</string>
+    <!--OPTION B--> <string name="LB31">B. Go to sporting event</string>
+    <!--OPTION C--> <string name="LC31">C. Eat in the cafeteria and study</string>
+    <!--OPTION D--> <string name="LD31">D. See a play</string>
+    <!--ANSWER  --> <string name="LAns31">B. Go to sporting event</string>
+
+    <!-- ============== Number 32 ================== -->
+    <!--QUESTION--> <string name="LQuestion32">(32)</string>
+    <!--OPTION A--> <string name="LA32">A. It\'s final game of the season</string>
+    <!--OPTION B--> <string name="LB32">B. It\'s better than the drama department\'s play</string>
+    <!--OPTION C--> <string name="LC32">C. It\'s a very important game</string>
+    <!--OPTION D--> <string name="LD32">D. It\'s close to the cafeteria</string>
+    <!--ANSWER  --> <string name="LAns32">C. It\'s a very important game</string>
+
+    <!-- ============== Number 33 ================== -->
+    <!--QUESTION--> <string name="LQuestion33">(33)</string>
+    <!--OPTION A--> <string name="LA33">A. A play</string>
+    <!--OPTION B--> <string name="LB33">B. A game</string>
+    <!--OPTION C--> <string name="LC33">C. A study group meeting</string>
+    <!--OPTION D--> <string name="LD33">D. Dinner in the cafeteria</string>
+    <!--ANSWER  --> <string name="LAns33">A. A play</string>
+
+    <!-- ============== Number 34 ================== -->
+    <!--QUESTION--> <string name="LQuestion34">(34)</string>
+    <!--OPTION A--> <string name="LA34">A. Saturday night</string>
+    <!--OPTION B--> <string name="LB34">B. After dinner in the cafeteria</string>
+    <!--OPTION C--> <string name="LC34">C. Sunday afternoon</string>
+    <!--OPTION D--> <string name="LD34">D. Maybe next weekend</string>
+    <!--ANSWER  --> <string name="LAns34">D. Maybe next weekend</string>
+
+    <!-- ============== Number 35 ================== -->
+    <!--QUESTION--> <string name="LQuestion35">(35)</string>
+    <!--OPTION A--> <string name="LA35">A. Trash orbiting Earth</string>
+    <!--OPTION B--> <string name="LB35">B. A trip by an astronaut to the Moon</string>
+    <!--OPTION C--> <string name="LC35">C. The overabundance of garbage on Earth</string>
+    <!--OPTION D--> <string name="LD35">D. Becoming space scientists</string>
+    <!--ANSWER  --> <string name="LAns35">A. Trash orbiting Earth</string>
+
+    <!-- ============== Number 36 ================== -->
+    <!--QUESTION--> <string name="LQuestion36">(36)</string>
+    <!--OPTION A--> <string name="LA36">A. From a lecture</string>
+    <!--OPTION B--> <string name="LB36">B. In a magazine article</string>
+    <!--OPTION C--> <string name="LC36">C. In a book</string>
+    <!--OPTION D--> <string name="LD36">D. On a television program</string>
+    <!--ANSWER  --> <string name="LAns36">D. On a television program</string>
+
+    <!-- ============== Number 37 ================== -->
+    <!--QUESTION--> <string name="LQuestion37">(37)</string>
+    <!--OPTION A--> <string name="LA37">A. 17,000 pounds</string>
+    <!--OPTION B--> <string name="LB37">B. 3,000 tons</string>
+    <!--OPTION C--> <string name="LC37">C. 3,000 pounds</string>
+    <!--OPTION D--> <string name="LD37">D. 300 tons</string>
+    <!--ANSWER  --> <string name="LAns37">B. 3,000 tons</string>
+
+    <!-- ============== Number 38 ================== -->
+    <!--QUESTION--> <string name="LQuestion38">(38)</string>
+    <!--OPTION A--> <string name="LA38">A. She will be able to travel in space</string>
+    <!--OPTION B--> <string name="LB38">B. The problem will take care of itself</string>
+    <!--OPTION C--> <string name="LC38">C. Scientists will find solutions to the problem</string>
+    <!--OPTION D--> <string name="LD38">D. The junk will fall to Earth</string>
+    <!--ANSWER  --> <string name="LAns38">C. Scientists will find solutions to the problem</string>
+
+    <!-- ============== Number 39 ================== -->
+    <!--QUESTION--> <string name="LQuestion39">(39)</string>
+    <!--OPTION A--> <string name="LA39">A. On the first day of class</string>
+    <!--OPTION B--> <string name="LB39">B. In the middle of the semester</string>
+    <!--OPTION C--> <string name="LC39">C. At the end of class</string>
+    <!--OPTION D--> <string name="LD39">D. in the final week of the semester</string>
+    <!--ANSWER  --> <string name="LAns39">B. In the middle of the semester</string>
+
+    <!-- ============== Number 40 ================== -->
+    <!--QUESTION--> <string name="LQuestion40">(40)</string>
+    <!--OPTION A--> <string name="LA40">A. Later today</string>
+    <!--OPTION B--> <string name="LB40">B. By Friday of this week</string>
+    <!--OPTION C--> <string name="LC40">C. In two weeks</string>
+    <!--OPTION D--> <string name="LD40">D. In three weeks</string>
+    <!--ANSWER  --> <string name="LAns40">C. In two weeks</string>
+
+    <!-- ============== Number 41 ================== -->
+    <!--QUESTION--> <string name="LQuestion41">(41)</string>
+    <!--OPTION A--> <string name="LA41">A. Journal and magazine articles</string>
+    <!--OPTION B--> <string name="LB41">B. Books from outside the library</string>
+    <!--OPTION C--> <string name="LC41">C. Books listed in the student journals</string>
+    <!--OPTION D--> <string name="LD41">D. Both books and journals</string>
+    <!--ANSWER  --> <string name="LAns41">D. Both books and journals</string>
+
+    <!-- ============== Number 42 ================== -->
+    <!--QUESTION--> <string name="LQuestion42">(42)</string>
+    <!--OPTION A--> <string name="LA42">A. Two</string>
+    <!--OPTION B--> <string name="LB42">B. Three</string>
+    <!--OPTION C--> <string name="LC42">C. Five</string>
+    <!--OPTION D--> <string name="LD42">D. Seven</string>
+    <!--ANSWER  --> <string name="LAns42">D. Seven</string>
+
+    <!-- ============== Number 43 ================== -->
+    <!--QUESTION--> <string name="LQuestion43">(43)</string>
+    <!--OPTION A--> <string name="LA43">A. In winter</string>
+    <!--OPTION B--> <string name="LB43">B. In spring</string>
+    <!--OPTION C--> <string name="LC43">C. In summer</string>
+    <!--OPTION D--> <string name="LD43">D. In fall</string>
+    <!--ANSWER  --> <string name="LAns43">B. In spring</string>
+
+    <!-- ============== Number 44 ================== -->
+    <!--QUESTION--> <string name="LQuestion44">(44)</string>
+    <!--OPTION A--> <string name="LA44">A. Seasonable, with warm summers and cold winters</string>
+    <!--OPTION B--> <string name="LB44">B. Fairy constant and moderate</string>
+    <!--OPTION C--> <string name="LC44">C. Very humid</string>
+    <!--OPTION D--> <string name="LD44">D. Extremely hot year-round</string>
+    <!--ANSWER  --> <string name="LAns44">B. Fairy constant and moderate</string>
+
+    <!-- ============== Number 45 ================== -->
+    <!--QUESTION--> <string name="LQuestion45">(45)</string>
+    <!--OPTION A--> <string name="LA45">A. They come from the Southwest</string>
+    <!--OPTION B--> <string name="LB45">B. They come most days of the year</string>
+    <!--OPTION C--> <string name="LC45">C. They are the hardest during the night</string>
+    <!--OPTION D--> <string name="LD45">D. They increase the humidity</string>
+    <!--ANSWER  --> <string name="LAns45">B. They come most days of the year</string>
+
+    <!-- ============== Number 46 ================== -->
+    <!--QUESTION--> <string name="LQuestion46">(46)</string>
+    <!--OPTION A--> <string name="LA46">A. Preparing for a trip</string>
+    <!--OPTION B--> <string name="LB46">B. Writing a report about the weather</string>
+    <!--OPTION C--> <string name="LC46">C. Beginning a study of the weather</string>
+    <!--OPTION D--> <string name="LD46">D. Buying warm clothes for a trip</string>
+    <!--ANSWER  --> <string name="LAns46">A. Preparing for a trip</string>
+
+    <!-- ============== Number 47 ================== -->
+    <!--QUESTION--> <string name="LQuestion47">(47)</string>
+    <!--OPTION A--> <string name="LA47">A. Modern American Authors</string>
+    <!--OPTION B--> <string name="LB47">B. United States History</string>
+    <!--OPTION C--> <string name="LC47">C. American Democracy</string>
+    <!--OPTION D--> <string name="LD47">D. Nineteenth-Century American Literature</string>
+    <!--ANSWER  --> <string name="LAns47">D. Nineteenth-Century American Literature</string>
+
+    <!-- ============== Number 48 ================== -->
+    <!--QUESTION--> <string name="LQuestion48">(48)</string>
+    <!--OPTION A--> <string name="LA48">A. The death of Abraham Lincoln</string>
+    <!--OPTION B--> <string name="LB48">B. The beauty of American democracy</string>
+    <!--OPTION C--> <string name="LC48">C. The raising of plants</string>
+    <!--OPTION D--> <string name="LD48">D. The maturity of poetry</string>
+    <!--ANSWER  --> <string name="LAns48">B. The beauty of American democracy</string>
+
+    <!-- ============== Number 49 ================== -->
+    <!--QUESTION--> <string name="LQuestion49">(49)</string>
+    <!--OPTION A--> <string name="LA49">A. It\'s poem about author</string>
+    <!--OPTION B--> <string name="LB49">B. It\'s poem about Abraham Lincoln</string>
+    <!--OPTION C--> <string name="LC49">C. It\'s collection of twelve poems that remained unchanged</string>
+    <!--OPTION D--> <string name="LD49">D. It\'s volume of poetry that grew with it\'s author</string>
+    <!--ANSWER  --> <string name="LAns49">D. It\'s volume of poetry that grew with it\'s author</string>
+
+    <!-- ============== Number 50 ================== -->
+    <!--QUESTION--> <string name="LQuestion50">(50)</string>
+    <!--OPTION A--> <string name="LA50">A. Leaves of Grass</string>
+    <!--OPTION B--> <string name="LB50">B. Song of Myself</string>
+    <!--OPTION C--> <string name="LC50">C. When Lilacs Last in the Dooryard Bloomed</string>
+    <!--OPTION D--> <string name="LD50">D. American Democracy</string>
+    <!--ANSWER  --> <string name="LAns50">B. Song of Myself</string>
+
+
+</resources>

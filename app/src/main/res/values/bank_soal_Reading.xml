@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    BANK SOAL UNTUK READING SECTION
+    -->
+
+    //Soal No 1
+    <string name="QR1">1) The word \"suited\" in paragraph one is closed in meaning to ...</string>
+    <string name="RA1">A. Positioned</string>
+    <string name="RB1">B. Placed</string>
+    <string name="RC1">C. Located</string>
+    <string name="RD1">D. Bordered</string>
+    <string name="RAns1">C. Located</string>
+
+    //Soal No 2
+    <string name="QR2">2) How wide is South Carolina?</string>
+    <string name="RA2">A. About 3.000 squere miles</string>
+    <string name="RB2">B. About 1.332 squere miles</string>
+    <string name="RC2">C. About 350 squere miles</string>
+    <string name="RD2">D. About 31.820 squere miles</string>
+    <string name="RAns2">D. About 31.820 squere miles</string>
+
+    //Soal No 3
+    <string name="QR3">3) The second paragraph implies that ...</string>
+    <string name="RA3">A. The surface area of Lake Superior is not as big as that of the five Great Lakes</string>
+    <string name="RB3">B. The surface area of Lake Superior is the biggest one in the world</string>
+    <string name="RC3">C. Lake Superior has a little amount of water</string>
+    <string name="RD3">D. Lake Superior is smaller than Lake Eries</string>
+    <string name="RAns3">B. The surface area of Lake Superior is the biggest one in the world</string>
+
+    //Soal No 4
+    <string name="QR4">4) The word \"entire\" in paragraph two is closest in meaning to what of the following?</string>
+    <string name="RA4">A. Part of</string>
+    <string name="RB4">B. Some</string>
+    <string name="RC4">C. Whole</string>
+    <string name="RD4">D. Several</string>
+    <string name="RAns4">C. Whole</string>
+
+    //Soal No 5
+    <string name="QR5">5) The third paragraph mainly discusses ...</string>
+    <string name="RA5">A. The climate change in Lake Superior</string>
+    <string name="RB5">B. A research by professors at the University of Minnesota Duluth</string>
+    <string name="RC5">C. The solar radiation in Lake Superior</string>
+    <string name="RD5">D. The air temperature in Lake Superior</string>
+    <string name="RAns5">A. The climate change in Lake Superior</string>
+
+    //Soal No 6
+    <string name="QR6">6) How deep is Lake Superior?</string>
+    <string name="RA6">A. 500 feet</string>
+    <string name="RB6">B. 1.332 feet</string>
+    <string name="RC6">C. 257 feet</string>
+    <string name="RD6">D. 406 feet</string>
+    <string name="RAns6">B. 1.332 feet</string>
+
+    //Soal No 7
+    <string name="QR7">7) What is the main topic of the fourth paragraph?</string>
+    <string name="RA7">A. The amount of water in Lake Superior</string>
+    <string name="RB7">B. The International Lake Superior Board of Control</string>
+    <string name="RC7">C. The International Joint Commission</string>
+    <string name="RD7">D. The water level of Lake Superior</string>
+    <string name="RAns7">D. The water level of Lake Superior</string>
+
+    //Soal No 8
+    <string name="QR8">8) What is probably the cause of increasing the surface temperature of Lake Superior?</string>
+    <string name="RA8">A. The reduction of ice cover</string>
+    <string name="RB8">B. The solar radiation all over the world</string>
+    <string name="RC8">C. The reduction of water supply</string>
+    <string name="RD8">D. The increase of water amount in Lake Superior</string>
+    <string name="RAns8">A. The reduction of ice cover</string>
+
+    //Soal No 9
+    <string name="QR9">9) The pharse \"a new low\" in paragraph four could best replaced by ...</string>
+    <string name="RA9">A. Not important</string>
+    <string name="RB9">B. Below</string>
+    <string name="RC9">C. The lowest level</string>
+    <string name="RD9">D. Bad time</string>
+    <string name="RAns9">C. The lowest level</string>
+
+    //Soal No 10
+    <string name="QR10">10) What is the tone of the passage?</string>
+    <string name="RA10">A. Humorous</string>
+    <string name="RB10">B. Calculating</string>
+    <string name="RC10">C. Accusatory</string>
+    <string name="RD10">D. Informative</string>
+    <string name="RAns10">D. Informative</string>
+
+    //Soal No 11
+    <string name="QR11">11) The paragraph preceding this passage most probably discussed ...</string>
+    <string name="RA11">A. The Spanish influence on American architecture</string>
+    <string name="RB11">B. The America influence on Spanish colony</string>
+    <string name="RC11">C. The Spanish people</string>
+    <string name="RD11">D. The American architecture</string>
+    <string name="RAns11">A. The Spanish influence on American architecture</string>
+
+    //Soal No 12
+    <string name="QR12">12) What is the topic of this passage?</string>
+    <string name="RA12">A. The Spanish influence on American architecture</string>
+    <string name="RB12">B. The English influence on American architecture</string>
+    <string name="RC12">C. The first permanent English speaking settlement in the USA</string>
+    <string name="RD12">D. The numerous artifact from the early 17th century</string>
+    <string name="RAns12">B. The English influence on American architecture</string>
+
+    //Soal No 13
+    <string name="QR13">13) The phrase \"well-preserved\" in paragraph one could be best replaced by ...</string>
+    <string name="RA13">A. Well-build</string>
+    <string name="RB13">B. Well-design</string>
+    <string name="RC13">C. Well-organized</string>
+    <string name="RD13">D. Well-conserved</string>
+    <string name="RAns13">D. Well-conserved</string>
+
+    //Soal No 14
+    <string name="QR14">14) Why did the English people go to the New World?</string>
+    <string name="RA14">A. For business purposes</string>
+    <string name="RB14">B. For research purposes</string>
+    <string name="RC14">C. For family reasons</string>
+    <string name="RD14">D. For country expansion</string>
+    <string name="RAns14">A. For business purposes</string>
+
+    //Soal No 15
+    <string name="QR15">15) The world \"mother\" in paragraph two is closest meaning to ... </string>
+    <string name="RA15">A. Female parent</string>
+    <string name="RB15">B. Single parent</string>
+    <string name="RC15">C. Native</string>
+    <string name="RD15">D. Old</string>
+    <string name="RAns15">C. Native</string>
+
+    //Soal No 16
+    <string name="QR16">16) What did the structure of the houses look like?</string>
+    <string name="RA16">A. They looked modern</string>
+    <string name="RB16">B. They were made with a lot of imported material</string>
+    <string name="RC16">C. They look big and very strong</string>
+    <string name="RD16">D. They were very plain and made with little imported material</string>
+    <string name="RAns16">D. They were very plain and made with little imported material</string>
+
+    //Soal No 17
+    <string name="QR17">17) The word \"their\" in paragraph two refers to ...</string>
+    <string name="RA17">A. Windows</string>
+    <string name="RB17">B. Settlers</string>
+    <string name="RC17">C. Homes</string>
+    <string name="RD17">D. structures</string>
+    <string name="RAns17">A. Windows</string>
+
+    //Soal No 18
+    <string name="QR18">18) Which of the following statement is correct about the early homes?</string>
+    <string name="RA18">A. Most of them reflected the big farms around the homes</string>
+    <string name="RB18">B. The structure were not made with imported material</string>
+    <string name="RC18">C. Their windows were not very big</string>
+    <string name="RD18">D. The windows had no panes</string>
+    <string name="RAns18">C. Their windows were not very big</string>
+
+    //Soal No 19
+    <string name="QR19">19) The world \"abundant\" in paragraph three could be best replaced by ...</string>
+    <string name="RA19">A. Plentiful</string>
+    <string name="RB19">B. Less</string>
+    <string name="RC19">C. Fanciful</string>
+    <string name="RD19">D. Rare</string>
+    <string name="RAns19">A. Plentiful</string>
+
+    //Soal No 20
+    <string name="QR20">20) Where can be seen the decorative element of the early homes?</string>
+    <string name="RA20">A. On the roof</string>
+    <string name="RB20">B. On the walls</string>
+    <string name="RC20">C. On the vents</string>
+    <string name="RD20">D. On the front door</string>
+    <string name="RAns20">D. On the front door</string>
+
+    //Soal No 21
+    <string name="QR21">21) The passage mainly discusses ...</string>
+    <string name="RA21">A. Selling goods</string>
+    <string name="RB21">B. Exchanging services</string>
+    <string name="RC21">C. Barter system</string>
+    <string name="RD21">D. Modern economy</string>
+    <string name="RAns21">C. Barter system</string>
+
+    //Soal No 22
+    <string name="QR22">22) In early centuries in certain countries, people use barter system because ...</string>
+    <string name="RA22">A. Bartering was easier</string>
+    <string name="RB22">B. Traders preferred barter system to money</string>
+    <string name="RC22">C. Barter system was more profitable</string>
+    <string name="RD22">D. Money was not created yet</string>
+    <string name="RAns22">D. Money was not created yet</string>
+
+    //Soal No 23
+    <string name="QR23">23) Explorers or pilgrims exchange their goods for spices because ...</string>
+    <string name="RA23">A. There were not any spices in their hometown</string>
+    <string name="RB23">B. They wanted to resell the spices in their hometown</string>
+    <string name="RC23">C. The spices more valuable than their goods</string>
+    <string name="RD23">D. Their did not need their goods anymore</string>
+    <string name="RAns23">A. There were not any spices in their hometown</string>
+
+    //Soal No 24
+    <string name="QR24">24) Which of the following is NOT the reason why people use barter system</string>
+    <string name="RA24">A. Money was not created yet in certain countries in ancient times</string>
+    <string name="RB24">B. People need specific goods that they don\'t have</string>
+    <string name="RC24">C. Barter system is the most effective way of trading goods</string>
+    <string name="RD24">D. Barter system is used because of financial crisis</string>
+    <string name="RAns24">C. Barter system is the most effective way of trading goods</string>
+
+    //Soal No 25
+    <string name="QR25">25) The word \"unstable\" in paragraph one could best be replace by ...?</string>
+    <string name="RA25">A. Useless</string>
+    <string name="RB25">B. Unsteady</string>
+    <string name="RC25">C. Unavailable</string>
+    <string name="RD25">D. Unimportant</string>
+    <string name="RAns25">B. Unsteady</string>
+
+    //Soal No 26
+    <string name="QR26">26) The word \"they\" in paragraph one refers to which of the following?</string>
+    <string name="RA26">A. Goods</string>
+    <string name="RB26">B. Services</string>
+    <string name="RC26">C. Things</string>
+    <string name="RD26">D. People</string>
+    <string name="RAns26">D. People</string>
+
+    //Soal No 27
+    <string name="QR27">27) It is implied in the second paragraph that ...</string>
+    <string name="RA27">A. Barter system in the past was done locally</string>
+    <string name="RB27">B. People did not like ding barter system with other people from other countries</string>
+    <string name="RC27">C. Barter system was not allowed to be used globally</string>
+    <string name="RD27">D. Local goods were better than global goods</string>
+    <string name="RAns27">A. Barter system in the past was done locally</string>
+
+    //Soal No 28
+    <string name="QR28">28) The word \"sophisticated\" in paragraph three could best be replaced by ...</string>
+    <string name="RA28">A. Mobile</string>
+    <string name="RB28">B. Technological</string>
+    <string name="RC28">C. Modern</string>
+    <string name="RD28">D. Practical</string>
+    <string name="RAns28">C. Modern</string>
+
+    //Soal No 29
+    <string name="QR29">29) What is the basic objective of bartering?</string>
+    <string name="RA29">A. To buy goods and resell them</string>
+    <string name="RB29">B. To exchange goods or services for other goods or services</string>
+    <string name="RC29">C. To get more goods or services that people need</string>
+    <string name="RD29">D. To offer goods to those who need them</string>
+    <string name="RAns29">B. To exchange goods or services for other goods or services</string>
+
+    //Soal No 30
+    <string name="QR30">30) The word \"purchase\" in paragraph three is closest in meaning to ...</string>
+    <string name="RA30">A. Buy</string>
+    <string name="RB30">B. Change</string>
+    <string name="RC30">C. Exchange</string>
+    <string name="RD30">D. Get</string>
+    <string name="RAns30">A. Buy</string>
+
+    //Soal No 31
+    <string name="QR31">31) What is the main purpose of the passage?</string>
+    <string name="RA31">A. To describe the functions of the brain</string>
+    <string name="RB31">B. To explain the injured part of the brain</string>
+    <string name="RC31">C. To demonstrate how the information influences the brain</string>
+    <string name="RD31">D. To persuade readers to protect their left and right sides of their brain</string>
+    <string name="RAns31">A. To describe the functions of the brain</string>
+
+    //Soal No 32
+    <string name="QR32">32) The phrase \"deal with\" in paragraph one is closest in meaning to ...</string>
+    <string name="RA32">A. Organize</string>
+    <string name="RB32">B. Cope with</string>
+    <string name="RC32">C. Care with</string>
+    <string name="RD32">D. Related to</string>
+    <string name="RAns32">B. Cope with</string>
+
+    //Soal No 33
+    <string name="QR33">33) The passage states that the right hemisphere functions to ...</string>
+    <string name="RA33">A. Develop the language</string>
+    <string name="RB33">B. Analyze the facts or information that it receives</string>
+    <string name="RC33">C. Gather the information for the left hemisphere</string>
+    <string name="RD33">D. Help the left hemisphere analyze the information</string>
+    <string name="RAns33">C. Gather the information for the left hemisphere</string>
+
+    //Soal No 34
+    <string name="QR34">34) The paragraph implies that ...</string>
+    <string name="RA34">A. The right hemisphere is able to communicate with certain language</string>
+    <string name="RB34">B. The right hemisphere puts the information together based on the analysis of the left hemisphere</string>
+    <string name="RC34">C. The right hemisphere can take over the job of the left hemisphere</string>
+    <string name="RD34">D. The left hemisphere applies words to the things collected by the right hemisphere</string>
+    <string name="RAns34">D. The left hemisphere applies words to the things collected by the right hemisphere</string>
+
+    //Soal No 35
+    <string name="QR35">35) What will happen if the right hemisphere injures?</string>
+    <string name="RA35">A. Someone can still communicate with certain words</string>
+    <string name="RB35">B. Someone\'s ability in analyzing a situation will be disordered</string>
+    <string name="RC35">C. Someone is unable to deal with words usage</string>
+    <string name="RD35">D. Someone\'s emotion will be disturbed</string>
+    <string name="RAns35">D. Someone\'s emotion will be disturbed</string>
+
+    //Soal No 36
+    <string name="QR36">36) The \"images\" in second paragraph could best be replaced by ...</string>
+    <string name="RA36">A. Reflection</string>
+    <string name="RB36">B. Shadows</string>
+    <string name="RC36">C. Pictures</string>
+    <string name="RD36">D. Ideas</string>
+    <string name="RAns36">C. Pictures</string>
+
+    //Soal No 37
+    <string name="QR37">37) What makes the brain fail to know that something is missing?</string>
+    <string name="RA37">A. The failure of putting things together</string>
+    <string name="RB37">B. The right hemisphere injures and fails to collect information</string>
+    <string name="RC37">C. The left hemisphere cannot communicate using words</string>
+    <string name="RD37">D. The right hemisphere cannot deal with the left hemisphere</string>
+    <string name="RAns37">B. The right hemisphere injures and fails to collect information</string>
+
+    //Soal No 38
+    <string name="QR38">38) The third paragraph implies that ...</string>
+    <string name="RA38">A. The brain cannot recognize the linguistic rules if the left hemisphere is very important</string>
+    <string name="RB38">B. The right hemisphere is very important</string>
+    <string name="RC38">C. The left hemisphere is more important than the right hemisphere</string>
+    <string name="RD38">D. The right hemisphere cannot collect the information without the help of the left hemisphere</string>
+    <string name="RAns38">A. The brain cannot recognize the linguistic rules if the left hemisphere is very important</string>
+
+    //Soal No 39
+    <string name="QR39">39) The word\"they\" in the third paragraph refers to ...</string>
+    <string name="RA39">A. Rules</string>
+    <string name="RB39">B. Matters</string>
+    <string name="RC39">C. Abilities</string>
+    <string name="RD39">D. Words</string>
+    <string name="RAns39">B. Matters</string>
+
+    //Soal No 40
+    <string name="QR40">40) Someone cannot organize his or her problems if?</string>
+    <string name="RA40">A. His or her left hemisphere injures</string>
+    <string name="RB40">B. His or her right hemisphere injures</string>
+    <string name="RC40">C. His or her right hemisphere cannot support the left hemisphere with more information</string>
+    <string name="RD40">D. Hos or her left hemisphere fails to apply language to the right hemisphere</string>
+    <string name="RAns40">A. His or her left hemisphere injures</string>
+
+    //Soal No 41
+    <string name="QR41">41) The passage mainly discusses?</string>
+    <string name="RA41">A. Ernest Hemingway\'s life, career, and works</string>
+    <string name="RB41">B. Ernest Hemingway\'s Noble Prize</string>
+    <string name="RC41">C. Ernest Hemingway\'s travel</string>
+    <string name="RD41">D. Ernest Hemingway\'s wives</string>
+    <string name="RAns41">A. Ernest Hemingway\'s life, career, and works</string>
+
+    //Soal No 42
+    <string name="QR42">42) How old was Ernest Hemingway when he died?</string>
+    <string name="RA42">A. 60 years old</string>
+    <string name="RB42">B. 62 years old</string>
+    <string name="RC42">C. 50 years old</string>
+    <string name="RD42">D. 52 years old</string>
+    <string name="RAns42">B. 62 years old</string>
+
+    //Soal No 43
+    <string name="QR43">43) The word \"attended\" in first paragraph is closest in meaning to ...</string>
+    <string name="RA43">A. Presented</string>
+    <string name="RB43">B. Left</string>
+    <string name="RC43">C. Went to</string>
+    <string name="RD43">D. Graduated</string>
+    <string name="RAns43">C. Went to</string>
+
+    //Soal No 44
+    <string name="QR44">44) When did Ernest Hemingway begin working as a reporter?</string>
+    <string name="RA44">A. In 1950</string>
+    <string name="RB44">B. In 1920</string>
+    <string name="RC44">C. In 1913</string>
+    <string name="RD44">D. In 1917</string>
+    <string name="RAns44">D. In 1917</string>
+
+    //Soal No 45
+    <string name="QR45">45) As author, Ernest Hemingway\'s most productive period in writing is ...</string>
+    <string name="RA45">A. Between the mid-1920s and the mid-1950s</string>
+    <string name="RB45">B. Early 1950s</string>
+    <string name="RC45">C. Between the 1930s and 1940s</string>
+    <string name="RD45">D. End of 1952</string>
+    <string name="RAns45">A. Between the mid-1920s and the mid-1950s</string>
+
+    //Soal No 46
+    <string name="QR46">46) Which of the following is NOT Hemingway\'s writing style?</string>
+    <string name="RA46">A. The sentences are brief</string>
+    <string name="RB46">B. The paragraphs are not long</string>
+    <string name="RC46">C. English as the language used is very forceful and energetic</string>
+    <string name="RD46">D. Presents negative nuance</string>
+    <string name="RAns46">D. Presents negative nuance</string>
+
+    //Soal No 47
+    <string name="QR47">47) Which of the following is NOT true about Ernest Hemingway\'s works?</string>
+    <string name="RA47">A. Hemingway\'s characters in his fiction present authenticity</string>
+    <string name="RB47">B. Many of his works become classic of America literature</string>
+    <string name="RC47">C. All of his works were published before he died</string>
+    <string name="RD47">D. Some of his works are short stories</string>
+    <string name="RAns47">C. All of his works were published before he died</string>
+
+    //Soal No 48
+    <string name="QR48">48) The word \"posthumously\" in the fourth paragraph could best be replaced by ...</string>
+    <string name="RA48">A. During Hemingway\'s lifetime</string>
+    <string name="RB48">B. During Hemingway\'s productive writing period</string>
+    <string name="RC48">C. Before Hemingway\'s death</string>
+    <string name="RD48">D. After Hemingway\'s death</string>
+    <string name="RAns48">D. After Hemingway\'s death</string>
+
+    //Soal No 9
+    <string name="QR49">49) How many wives did Hemingway have according to the passage?</string>
+    <string name="RA49">A. Two</string>
+    <string name="RB49">B. Three</string>
+    <string name="RC49">C. Four</string>
+    <string name="RD49">D. One</string>
+    <string name="RAns49">C. Four</string>
+
+    //Soal No 50
+    <string name="QR50">50) Where did Hemingway die?</string>
+    <string name="RA50">A. In Key West, Florida</string>
+    <string name="RB50">B. In Cuba</string>
+    <string name="RC50">C. In Ketchum, Idaho</string>
+    <string name="RD50">D. In Oak Park</string>
+    <string name="RAns50">C. In Ketchum, Idaho</string>
+
+
+</resources>
