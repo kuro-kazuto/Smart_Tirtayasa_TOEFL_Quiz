@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225489525534",
+    "project_id": "smart-tirtayasa-toefl-quiz",
+    "storage_bucket": "smart-tirtayasa-toefl-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225489525534:android:73004844c540ea1821c70f",
+        "android_client_info": {
+          "package_name": "com.labcnt.sttq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225489525534-uqih23hest9lgmohvn63ntemubnf3d96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHXQBB5fXJGSdTC0_RO3CmakaqccfijJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225489525534-uqih23hest9lgmohvn63ntemubnf3d96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
