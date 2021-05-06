@@ -36,9 +36,9 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
-    implementation 'com.google.firebase:firebase-analytics:18.0.2'
-    implementation 'com.google.firebase:firebase-auth:20.0.3'
-    implementation 'com.google.firebase:firebase-database:19.6.0'
+    implementation 'com.google.firebase:firebase-analytics:18.0.3'
+    implementation 'com.google.firebase:firebase-auth:20.0.4'
+    implementation 'com.google.firebase:firebase-database:19.7.0'
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
     implementation 'de.hdodenhof:circleimageview:3.0.0'
     implementation 'com.google.android.gms:play-services-auth:19.0.0'
@@ -52,9 +52,9 @@ dependencies {
     // If you want to additionally use the CameraX Lifecycle library
     implementation "androidx.camera:camera-lifecycle:${camerax_version}"
     // If you want to additionally use the CameraX View class
-    implementation "androidx.camera:camera-view:1.0.0-alpha21"
+    implementation "androidx.camera:camera-view:1.0.0-alpha24"
     // If you want to additionally use the CameraX Extensions library
-    implementation "androidx.camera:camera-extensions:1.0.0-alpha21"
+    implementation "androidx.camera:camera-extensions:1.0.0-alpha24"
 }
 apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
